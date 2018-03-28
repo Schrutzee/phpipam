@@ -125,7 +125,7 @@ msgid "Workstation"
 msgstr "Station de travail"
 
 #: functions/functions-admin.php:1145
-msgid "Laptop"
+msgid "Laptop" 
 msgstr "PC Portable"
 
 #: functions/functions-admin.php:1146 functions/functions-admin.php:1165 site/admin/adminMenu.php:85
